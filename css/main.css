@@ -52,7 +52,7 @@ a {
 }
 
 a:hover, a:focus {
-  color: #003399;
+  color: #FFF02F;
 }
 
 hr {
@@ -90,7 +90,7 @@ hr {
 
 a:hover,
 a:focus {
-  color: #111;
+  color: #003399;
   text-decoration: none;
   outline: none;
 }
@@ -184,7 +184,7 @@ body > section {
 
 .top-bar {
   padding: 10px 0;
-  background: #191919;
+  background: #003399;
   border-bottom: 1px solid #222;
   line-height: 28px;
 }

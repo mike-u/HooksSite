@@ -44,7 +44,7 @@ h4{
 }
 
 a {
-  color: #003399;
+  color: #192857;
   -webkit-transition: color 300ms, background-color 300ms;
   -moz-transition: color 300ms, background-color 300ms;
   -o-transition:  color 300ms, background-color 300ms;
@@ -63,7 +63,7 @@ hr {
 
 .btn-primary {
   padding: 8px 20px;
-  background: ##003399;
+  background: ##192857;
   color: #fff;
   border-radius: 4px;
   border:none;
@@ -73,7 +73,7 @@ hr {
 
 .btn-primary:hover, 
 .btn-primary:focus{
-  background: #003399;
+  background: #192857;
   outline: none;
   box-shadow: none;
 } 
@@ -90,7 +90,7 @@ hr {
 
 a:hover,
 a:focus {
-  color: #003399;
+  color: #192857;
   text-decoration: none;
   outline: none;
 }
@@ -184,7 +184,7 @@ body > section {
 
 .top-bar {
   padding: 10px 0;
-  background: #003399;
+  background: #192857;
   border-bottom: 1px solid #222;
   line-height: 28px;
 }
@@ -265,7 +265,7 @@ input.search-form:hover {
 .navbar {
   border-radius: 0;
   margin-bottom: 0;
-  background: #151515;
+  background: #192857;
   padding: 15px 0;
   padding-bottom: 0;
 }
@@ -289,7 +289,7 @@ input.search-form:hover {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover{
-	background-color: #003399;
+	background-color: #192857;
   color: #fff;
 }
 
@@ -309,7 +309,7 @@ input.search-form:hover {
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
-  background-color: #003399;
+  background-color: #192857;
   color: #fff;
 }
 
@@ -381,13 +381,13 @@ input.search-form:hover {
 }
 
 #main-slider .carousel h2 {
-  color: #fff;
+  color: #cdb87d;
 }
 
 #main-slider .carousel .btn-slide {
   padding: 8px 20px;
-  background: #c52d2f;
-  color: #fff;
+  background: #192857;
+  color: #cdb87d;
   border-radius: 4px;
   margin-top: 25px;
   display: inline-block;
@@ -434,8 +434,8 @@ input.search-form:hover {
 #main-slider .next {
   position: absolute;
   top: 50%;
-  background-color: #c52d2f;
-  color: #fff;
+  background-color: 192857;
+  color: #cdb87d;
   display: inline-block;
   margin-top: -25px;
   height: 40px;
@@ -449,21 +449,23 @@ input.search-form:hover {
 
 #main-slider .prev:hover,
 #main-slider .next:hover {
-  background-color: #000;
+  background-color: #192857;;
 }
 
 #main-slider .prev {
   left: 10px;
+  
 }
 
 #main-slider .next {
   right: 10px;
+  
 }
 
 #main-slider .carousel-indicators li {
   width: 20px;
   height: 20px;
-  background-color: #fff;
+  background-color: #cdb87d;
   margin: 0 15px 0 0;
   position: relative;
 }
@@ -475,7 +477,7 @@ input.search-form:hover {
   height: 24px;
   border-radius: 100%;
   background: rgba(0, 0, 0, 0);
-  border: 1px solid #FFF;
+  border: 1px solid #cdb87d;
   left: -3px;
   top: -3px;
 }
@@ -483,9 +485,9 @@ input.search-form:hover {
 #main-slider .carousel-indicators .active{
   width: 20px;
   height: 20px;
-  background-color: #c52d2f;
+  background-color: #192857;
    margin: 0 15px 0 0;
-   border: 1px solid #c52d2f;
+   border: 1px solid #192857;
    position: relative;
 }
 
@@ -495,8 +497,8 @@ input.search-form:hover {
   width: 24px;
   height: 24px;
   border-radius: 100%;
-  background: #c52d2f;
-  border: 1px solid #c52d2f;
+  background: #192857;
+  border: 1px solid #192857;
   left: -3px;
   top: -3px;
 }
@@ -563,11 +565,11 @@ input.search-form:hover {
   border-radius: 100%;
   line-height: 110px;
   text-align:center;
-  background: #ffffff;
-  color: #c52d2f;
-  border: 3px solid #ffffff;
-  box-shadow: inset 0 0 0 5px #f2f2f2;
-  -webkit-box-shadow: inset 0 0 0 5px #f2f2f2;
+  background: #cdb87d;
+  color: #192857;
+  border: 3px solid #192857;
+  box-shadow: inset 0 0 0 5px #192857;
+  -webkit-box-shadow: inset 0 0 0 5px #192857;
   -webkit-transition: 500ms;
   -moz-transition: 500ms;
   -o-transition: 500ms;
@@ -577,11 +579,11 @@ input.search-form:hover {
 }
 
 .feature-wrap i:hover {
-  background: #c52d2f;
-  color: #fff;
-  box-shadow: inset 0 0 0 5px #c52d2f;
-  -webkit-box-shadow: inset 0 0 0 5px #c52d2f;
-  border: 3px solid #c52d2f;
+  background: #192857;
+  color: #cdb87d;
+  box-shadow: inset 0 0 0 5px #cdb87d;
+  -webkit-box-shadow: inset 0 0 0 5px #cdb87d;
+  border: 3px solid #cdb87d;
 }
 
 #recent-works .col-xs-12.col-sm-4.col-md-3{

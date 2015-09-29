@@ -2004,7 +2004,7 @@ textarea#message{
 }
 
 .blog_category li a:hover{
-  background:#c52d2f;
+  background:#cdb87d;
   color: #fff;
 }
 
@@ -2466,7 +2466,7 @@ shortcodes page css
 ************************/
 #bottom {
   background: #f5f5f5;
-  border-bottom: 5px solid #c52d2f;
+  border-bottom: 5px solid #cdb87d;
   font-size: 14px;
 }
 
@@ -2505,7 +2505,7 @@ shortcodes page css
   padding-top: 30px;
   padding-bottom: 30px;
   color: #fff;
-  background: #2e2e2e;
+  background: #192857;
 }
 
 #footer a {
@@ -2513,7 +2513,7 @@ shortcodes page css
 }
 
 #footer a:hover {
-  color: #c52d2f;
+  color: #cdb87d;
 }
 
 #footer ul {

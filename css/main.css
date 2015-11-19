@@ -435,7 +435,7 @@ input.search-form:hover {
 #main-slider .next {
   position: absolute;
   top: 50%;
-  background-color: 192857;
+  background-color: #192857;
   color: #cdb87d;
   display: inline-block;
   margin-top: -25px;
@@ -629,7 +629,7 @@ input.search-form:hover {
   height: 100%;
   opacity: 0;
   border-radius: 0;
-  background: #c52d2f;
+  background: #192857;
   color: #fff;
   vertical-align: middle;
   -webkit-transition: opacity 500ms;
@@ -811,7 +811,7 @@ input.search-form:hover {
 }
 
 .panel-title>a{
-  color: #4e4e4e;
+  color: #192857;
 }
 
 .accordion-inner img{
@@ -823,11 +823,11 @@ input.search-form:hover {
 }
 
 .panel-heading.active{
-  background: #1f1f20;
+  background: #192857;
 }
 
 .panel-heading.active .panel-title>a{
-  color:#fff;
+  color:#e6e6e6;
 }
 
 a.accordion-toggle  i{
@@ -837,17 +837,18 @@ a.accordion-toggle  i{
   margin-top: -10px;
   text-align: center;
   margin-right: -15px;
-  background: #c9c9c9;
+  background: #192857;
+  color: #e6e6e6;
 }
 
 .panel-heading.active a.accordion-toggle i{
-  background: #c52d2f;
-  color: #fff;
+  background: #cdb87d;
+  color: #192857;
 }
 
 .panel-heading.active a.accordion-toggle.collapsed i{
-  background: #c52d2f;
-  color: #fff;
+  background: #cdb87d;
+  color: #192857;
 }
 
 .nav-tabs>li{
